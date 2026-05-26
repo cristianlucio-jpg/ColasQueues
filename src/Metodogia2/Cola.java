@@ -6,7 +6,7 @@ package Metodogia2;
 
 /**
  *
- * @author Usuario1
+ * @author Cristian Alexis Lucio Narvaéz
  */
 public class Cola {
 //Clase que crea la estructura del Nodo

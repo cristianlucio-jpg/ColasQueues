@@ -5,7 +5,7 @@
 package Metodogia2;
 
 /**
- *
+ *@author Cristian Alexis Lucio Narvaez
  */
 public class Main {
 
