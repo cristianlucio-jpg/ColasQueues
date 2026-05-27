@@ -51,3 +51,6 @@ Clase de prueba para demostrar el funcionamiento de la cola.
   - Encola los valores: `10, 20, 30, 40`.  
   - Desencola dos elementos y los muestra en consola.  
 - **Ejemplo de salida esperada:**  
+    Elemento desencolado: 10
+    Elemento desencolado: 20
+    Cola actual: 30 -> 40
